@@ -67,7 +67,7 @@ https://www.google.com
 
 
 ### define link
-[fb]: https://www.fb.com
+[fb]: https://www.fb.com/sourav.sh.adrian
 
 ### forced link
 
@@ -75,7 +75,7 @@ https://www.google.com
 
 ### image
 
-![profile](./srv%20img.jpg)
+![profile](./srv%20img.JPG)
 
 😍😍😍
 
