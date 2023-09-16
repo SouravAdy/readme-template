@@ -75,7 +75,7 @@ https://www.google.com
 
 ### image
 
-![profile](./srv%20img.JPG)
+![profile](./srv_img.JPG)
 
 😍😍😍
 
