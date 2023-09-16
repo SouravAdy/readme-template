@@ -68,16 +68,18 @@ https://www.google.com
 
 ### define link
 
-[fbc]: https://www.facebook.com/sourav.sh.adrian
+[fbc]: https://www.facebook.com/sourav.sh.adrian 
+
+<!-- it's not working properly -->
+
 ### forced link
 
-[facebook]( fbc )
+My fb name is [Sourav Saha](https://www.facebook.com/sourav.sh.adrian)
 
-[fb]:https://www.fb.com/sourav.sh.adrian
 ### image
 
 <!-- ![profile](./srv_img.JPG) -->
-<img src="/srv_img.jpg" alt="new image source">
+<img src="./srv_img.jpg" alt="new image source">
 
 😍😍😍
 
